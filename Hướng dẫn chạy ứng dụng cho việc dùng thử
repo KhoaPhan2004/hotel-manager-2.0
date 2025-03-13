@@ -1,0 +1,5 @@
+GHI CHÚ : phải biết có ứng dụng SQL server và visual 2022 trên máy trước. Phải biết sử dụng chút ít về SQL server.
+bước 1 : mở file qlykhachsan.sql và chạy nó bằng SQL server để tạo database.
+bước 2 : chạy file SetUpKHACHSAN.msi để cài ứng dụng quản lý khách sạn về máy.
+bước 3 : mở ứng dụng quản lý khách sạn đăng nhập với tài khoản là admin và mật khẩu là 123.
+bước 4 : chúc mọi người trải nghiệm vui vẻ.
